@@ -1,0 +1,6 @@
+Used Model From HuggingFace:
+https://huggingface.co/wissamantoun/araelectra-base-artydiqa?
+
+Another Arabic QA Models:
+https://huggingface.co/models?language=ar&pipeline_tag=question-answering&sort=downloads
+
